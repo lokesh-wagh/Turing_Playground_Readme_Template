@@ -28,4 +28,4 @@ Team Name: Code_Pirates
 
 
 
-<a href="[https://hack36.com](https://weekendofcode.computercodingclub.in/)"> <img src="https://postimg.cc/GB348wTH" height=30px> </a>
+<a href="[https://hack36.com](https://weekendofcode.computercodingclub.in/)"> <img src="https://i.postimg.cc/mrCCnTbN/tpg.jpg" height=30px> </a>
